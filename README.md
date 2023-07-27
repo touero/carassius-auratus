@@ -27,15 +27,45 @@ $ git clone https://github.com/weiensong/AutoLoginGUAT.git
    
 Plus:运营商即R3参数，默认1电信
 
-- Windows
+- Windows  
   直接以git运行此脚本, 并把其加入开机自启动.
 
-- Linux
+- Linux  
 ```sh
 # 修改参数完毕后, 修改后缀为.sh, 将其添加到/etc/rc.local中
 $ login_guat.sh
 ```
 
+## 相关仓库
+
+- [curl](https://github.com/curl/curl) —A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+
+## 相关链接
+
+- [Curl](https://curl.se/)
 
 
 
+## 维护者
+
+[@weiensong](https://github.com/weiensong)
+
+
+
+## 如何贡献
+
+非常欢迎你的加入！[提一个 Issue](https://github.com/weiensong/AutoLoginGUAT/issues) 或者提交一个 Pull Request。
+
+
+遵循标准shell行为规范。
+
+### 贡献者
+
+感谢参与项目的所有人
+
+
+
+## 使用许可
+
+[MIT](LICENSE) © weiensong
