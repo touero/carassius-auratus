@@ -20,9 +20,9 @@ $ git clone https://github.com/weiensong/AutoLoginGUAT.git
 ## 运行
 
 ❗❗❗运行前请编辑你的参数❗❗❗  
-username: 账号
-password,: 密码
-serviceProvider: 运营商
+username: 账号  
+password,: 密码  
+serviceProvider: 运营商  
 
 1. 校园网：0
 2. 电信：1
