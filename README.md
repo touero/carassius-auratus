@@ -1,5 +1,5 @@
 # 
-<h1 align="center">shell脚本自动登录校园网-桂林航天工业学院</h1>
+<h1 align="center">carassius-auratus</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/license_-MIT-green" alt=""> <img src="https://img.shields.io/badge/shell-blue" alt=""> <img src="https://img.shields.io/badge/curl-blue" alt=""> 
