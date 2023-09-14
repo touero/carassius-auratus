@@ -2,7 +2,9 @@
 <h1 align="center">carassius-auratus</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/license_-MIT-green" alt=""> <img src="https://img.shields.io/badge/shell-blue" alt=""> <img src="https://img.shields.io/badge/curl-blue" alt=""> 
+   <img src="https://img.shields.io/badge/license_-MIT-blue" alt=""> 
+   <img src="https://img.shields.io/badge/shell-grey" alt="">
+   <img src="https://img.shields.io/badge/curl-grey" alt=""> 
 </p>
 
 ## 仓库介绍
