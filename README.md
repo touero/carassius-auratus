@@ -9,7 +9,7 @@
 
 ## 仓库介绍
 
-&emsp;&emsp;每天自动登录是啰嗦的一件事情,为此写了一个shell脚本自动登录校园网
+&emsp;&emsp;每天自动登录是啰嗦的一件事情,为此写了一个shell脚本自动登录校园网, 如果这个脚本对你有帮助请点一个star.
 
 ## 安装
 
@@ -39,7 +39,7 @@ Plus:运营商即R3参数，默认1电信
 - Linux  
 ```sh
 # 修改参数完毕后, 修改后缀为.sh, 将其添加到/etc/rc.local中
-$ login_guat.sh
+$ source login_guat.sh
 ```
 
 ## 相关仓库
